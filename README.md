@@ -1,5 +1,5 @@
 # SOC-Lab
-NYCU SOC Lab
+NYCU SOC Lab  '\n'
 name: KUO MING CHEN '\n'
 ID:311511082  '\n'
 
